@@ -1,1 +1,3 @@
-console.log("Git is awesome !")
+let p = prompt("Enter your favourite colour !")
+
+console.log(p)
